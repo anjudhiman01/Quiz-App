@@ -9,7 +9,7 @@ This is a beginner-friendly and fully responsive quiz application designed to te
 ## Live Demo
 
 Check out the live version here:  
-👉 <a href ="https://techyAnju.github.io/quiz-app/"> Click here to see it </a>
+👉 [Click here to see it live](https://techyanju.github.io/Quiz-App/) 
 
 ---
 

@@ -9,7 +9,7 @@ This is a beginner-friendly and fully responsive quiz application designed to te
 ## Live Demo
 
 Check out the live version here:  
-👉 [Click here to see it live](https://techyanju.github.io/Quiz-App/) 
+👉 [Click here to see it live](https://anjudhiman01.github.io/Quiz-App/) 
 
 ---
 
@@ -48,7 +48,7 @@ I’m **Anju Dhiman**, an MCA student passionate about building responsive web a
 
 Connect with me:  
 🔗 [LinkedIn](https://www.linkedin.com/in/anju-dhiman01)  
-💻 [GitHub](https://github.com/techyAnju)  
+💻 [GitHub](https://github.com/anjudhiman01)  
 📧 [anjudhiman7044@google.com](mailto:anjudhiman7044@google.com)
 
 ---
